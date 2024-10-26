@@ -10,10 +10,10 @@
 
 #### Технологии проекта:
 
-Java 11 (Amazon Corretto),
-JUnit4 (4.13.2),
-mockito-core (5.14.2),
-jacoco-maven-plugin(0.8.12)
+Java 11 (Amazon Corretto),  
+JUnit4 (4.13.2),  
+Mockito (mockito-core 5.14.2),  
+Jacoco (jacoco-maven-plugin(0.8.12))  
 
 
 #### - Запуск тестов
